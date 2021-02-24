@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="finish">Avslutt</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Gjennoppta</string>
+    <string name="help">Hjelp</string>
+    <string name="back">Tilbake</string>
+    <string name="restart">Start på nytt</string>
+    <string name="instructions">Trykk på nedre halvdel av skjermen for å flytte på blokken, trykk på den øverste halvdelen for å rotere blokken.</string>
+    <string name="norwegian">Norsk</string>
+    <string name="english">English</string>
+</resources>

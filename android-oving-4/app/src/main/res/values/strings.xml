@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Oving4</string>
+    <string name="next">Neste</string>
+    <string name="previous">Forrige</string>
+    <string-array name="picText">
+        <item >Fotball</item>
+        <item >Bjørn</item>
+        <item >Pasta</item>
+        <item >Lewis Hamilton</item>
+    </string-array>
+    <string-array name="desc">
+        <item >Fotball er en idrett</item>
+        <item >Bjørn er et dyr</item>
+        <item >Pasta er en type mat</item>
+        <item >Lewis Hamilton er verdens beste Formel 1 kjører</item>
+    </string-array>
+    <array name="pictures">
+        <item>@drawable/football </item>
+        <item>@drawable/bear</item>
+        <item>@drawable/pasta</item>
+        <item>@drawable/lewis</item>
+    </array>
+</resources>

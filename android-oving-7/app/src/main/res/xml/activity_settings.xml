@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Settings">
+    <ListPreference
+        android:title="List"
+        android:entries="@array/PrefList"
+        android:entryValues="@array/PrefList"
+        android:summary="Click and choose"
+        android:key="listPref"/>
+ </PreferenceScreen>

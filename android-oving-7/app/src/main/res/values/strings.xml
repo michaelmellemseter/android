@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oving7</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_back">Tilbake</string>
+    <string name="action_authors">Forfattere</string>
+    <string name="action_titles">Titler</string>
+    <string name="pref_default">White</string>
+</resources>

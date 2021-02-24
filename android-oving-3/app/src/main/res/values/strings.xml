@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Oving3</string>
+    <string name="lagNy">Lag ny</string>
+    <string name="save">Lagre</string>
+    <string name="name">Navn:</string>
+    <string name="birthday">Fødselsdag:</string>
+    <string name="name1">Jens</string>
+    <string name="birthday1">01.01.82</string>
+    <string name="name2">Anne</string>
+    <string name="birthday2">06.03.98</string>
+    <string-array name="names">
+        <item>@string/name1</item>
+        <item>@string/name2</item>
+    </string-array>
+    <string-array name="birthdays">
+        <item>@string/birthday1</item>
+        <item>@string/birthday2</item>
+    </string-array>
+
+</resources>
